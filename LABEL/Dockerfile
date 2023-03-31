@@ -1,0 +1,3 @@
+FROM almalinux
+LABEL AUTHOR="HARI"
+LABEL COURSE="DOCKER"      
